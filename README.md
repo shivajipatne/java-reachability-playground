@@ -5,6 +5,7 @@ Vulnerabilities feature and includes both a "Reachable" vulnerability (with a di
 
 
 ## Included vulnerabilities
+
 ### [Arbitrary File Write via Archive Extraction](https://app.snyk.io/vuln/SNYK-JAVA-ORGND4J-72550)
 An exploit is using a vulnerability called [ZipSlip](https://snyk.io/research/zip-slip-vulnerability) - a critical vulnerability discovered 
 by Snyk, which typically results in remote command execution. As part of the exploit, a special zip archive is 
